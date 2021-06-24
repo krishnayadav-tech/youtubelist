@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Introduction to Programming and Computer Science - Full Course",
+    "link": "https://www.youtube.com/watch?v=zOjov-2OZ0E",
+    "desc": "In this course, you will learn basics of computer programming and computer science. The concepts you learn apply to any and all programming languages and will be a good base onto which you can build your skills. ",
+    "thumb": "https://img.youtube.com/vi/zOjov-2OZ0E/hqdefault.jpg"
+  },
+  {
+    "title": "Object-oriented Programming",
+    "link": "https://www.youtube.com/watch?v=PFmuCDHHpwk",
+    "desc": "Object-oriented programming in JavaScript: learn all about objects, prototypes, prototypical inheritance, this and more. ",
+    "thumb": "https://img.youtube.com/vi/PFmuCDHHpwk/hqdefault.jpg"
+  },
+  {
+    "title": "ES6 Tutorial",
+    "link": "https://www.youtube.com/watch?v=NCwa_xi0Uuc",
+    "desc": "ES6 programming in JavaScript by Mosh Hamedani",
+    "thumb": "https://img.youtube.com/vi/NCwa_xi0Uuc/hqdefault.jpg"
+  },
+  {
+    "title": "Why Do MacBooks Get So HOT?! (Intel and M1)",
+    "link": "https://www.youtube.com/watch?v=XT4MPpIIcY8",
+    "desc": "A few people have asked me why their MacBooks get so hot and may even start to thermal throttle.In this course, you will learn basics of computer programming and computer science. The concepts you learn apply to any and all programming languages and will be a good base onto which you can build your skills",
+    "thumb": "https://img.youtube.com/vi/XT4MPpIIcY8/hqdefault.jpg"
+  }
+]
